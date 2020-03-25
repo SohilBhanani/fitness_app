@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601369042384",
+    "firebase_url": "https://fitnessapp-e9a11.firebaseio.com",
+    "project_id": "fitnessapp-e9a11",
+    "storage_bucket": "fitnessapp-e9a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601369042384:android:da200b4d6bb66e5610edd5",
+        "android_client_info": {
+          "package_name": "com.dashdash.fitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601369042384-qjc2tg70df4ga9e2aoo4hmj1hcjjup08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dashdash.fitnessapp",
+            "certificate_hash": "7d00cf39e350157c40678fbde1e5efac27385e57"
+          }
+        },
+        {
+          "client_id": "601369042384-6s385m5laovfd2kpmvneoc7ldr76brgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_kSLt5ih9LW6X8KiUN1Q0OBBEKvilyb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601369042384-6s385m5laovfd2kpmvneoc7ldr76brgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
