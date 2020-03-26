@@ -254,6 +254,7 @@ class _CaloriePageState extends State<CaloriePage> {
                             _currentSelectedValue = newValue;
                             state.didChange(newValue);
                           });
+
                         },
                         items: activities.map((String value) {
                           return DropdownMenuItem<String>(

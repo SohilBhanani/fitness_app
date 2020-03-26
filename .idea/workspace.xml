@@ -6,7 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bc56e14-3695-4eae-9961-429649cb053b" name="Default Changelist" comment="Initial Commit" />
+    <list default="true" id="8bc56e14-3695-4eae-9961-429649cb053b" name="Default Changelist" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/lib/screens/pages/calorie_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/pages/calorie_page.dart" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
